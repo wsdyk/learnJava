@@ -2,15 +2,20 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="learn_nio" />
         <module name="com.netty01" />
+        <module name="learn_jvm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="com.netty01" target="1.8" />
+      <module name="learn_jvm" target="8" />
+      <module name="learn_nio" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

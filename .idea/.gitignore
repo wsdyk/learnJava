@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../../../:\QCTC\workspace\learnJava\learn_netty\.idea/dataSources/
+/../../../../../:\QCTC\workspace\learnJava\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
