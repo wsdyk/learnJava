@@ -13,7 +13,7 @@ public class MyOKHttpClient {
     public static void main(String args[]) {
 
 
-        String url = "http://localhost:8088/api/hello";
+        String url = "https://baidu.com";
         try {
             String text = GetUrl(url);
             System.out.println(text);

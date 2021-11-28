@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/learn_netty/com.netty01.iml" filepath="$PROJECT_DIR$/learn_netty/com.netty01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learnJava.iml" filepath="$PROJECT_DIR$/.idea/learnJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn_jvm/learn_jvm.iml" filepath="$PROJECT_DIR$/learn_jvm/learn_jvm.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn_nio/learn_nio.iml" filepath="$PROJECT_DIR$/learn_nio/learn_nio.iml" />
     </modules>
